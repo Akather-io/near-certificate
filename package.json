@@ -1,0 +1,11 @@
+{
+  "name": "near-certificate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Akather-io/near-certificate.git",
+  "author": "leopham <hongthaipro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "bash build.sh"
+  }
+}
